@@ -1,15 +1,23 @@
 # LLM_Portfolio
 LLMで作成した作例。  
   
+- インバウンド観光客向けレストラン/文化体験レコメンドサービス(Claude)  
+  https://claude.ai/public/artifacts/95af6097-b3ea-4b6c-a225-b8a4a570bad3  
+  https://claude.ai/share/7de02f98-42ac-499a-873e-5293236049a6  
+  訪日観光客(特に中国本土からの観光客)向けに、ユーザーが日本でやってみたいことをもとにオススメのレストランや文化体験を提案するチャットボットアプリのモックです。  
+  会社の合宿にて新規事業の模擬プレゼン用に作成したもので、方向性を聞きながら30分ほどで仕上げました。  
+
 - 婦人科用服薬管理手帳アプリのモック(v0)  
   https://v0.dev/chat/-MrS8SKU4mhT  
   日ごとに服薬した薬と時間帯、出血量を記録することができるWebアプリのモックです。  
+  こちらは病院と薬局の待ち時間中に作成しました。   
 
 - サービス利用量ダッシュボード(v0)  
   https://v0.dev/chat/service-usage-dashboard-LHjrwBqkMkR  
   開発中のプロダクトの利用量を確認する画面です。  
 
 - お年玉フィッシングくじ(Claude)  
-  https://v0.dev/chat/service-usage-dashboard-LHjrwBqkMkR  
   https://claude.ai/public/artifacts/6871b22d-64a4-4d9a-b01d-cb4921fe1484  
   お年玉増額と見せかけたフィッシング詐欺啓発用のアプリです。  
+  いとこに配ろうと画策していましたが、諸事情で結局渡せませんでした。  
+  お蔵入りにするのももったいなく、こちらで公開することにしました（笑）  
